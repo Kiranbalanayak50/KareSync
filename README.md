@@ -1,4 +1,4 @@
-# Kare-Sync - Voice-powered Doctor Appoitnment System
+#🩺 Kare-Sync - Voice-powered Doctor Appoitnment System
 
 
 
