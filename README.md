@@ -1,12 +1,28 @@
-# React + Vite
+# Kare-Sync - Voice-powered Doctor Appoitnment System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Kare‑Sync is a modern, responsive web application designed to streamline the process of booking doctor appointments—powered by voice input for a hands-free, user-friendly experience.
+Whether you're a first-time visitor or a regular patient, Kare‑Sync helps you:
+Register quickly
 
-## Expanding the ESLint configuration
+Find the right doctor
+Book appointments using your voice
+Track and manage your medical visits
+All while maintaining privacy, simplicity, and speed.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🚀 Live Demo: https://kare-sync-git-main-kiranbala-nayaks-projects.vercel.app
+
+🧠 Why Kare‑Sync?
+Healthcare tech can often be clunky and overwhelming. Kare‑Sync simplifies the journey:
+
+No cluttered forms
+No confusing navigation
+Just you, your voice, and the doctor you need
+
+It’s especially helpful for:
+Elderly users
+Visually impaired users
+
+
