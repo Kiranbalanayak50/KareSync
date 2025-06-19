@@ -1,8 +1,8 @@
-#🩺 Kare-Sync - Voice-powered Doctor Appoitnment System
+# Kare-Sync - Voice-powered Doctor Appoitnment System
 
 
 
-Kare‑Sync is a modern, responsive web application designed to streamline the process of booking doctor appointments—powered by voice input for a hands-free, user-friendly experience.
+🩺Kare‑Sync is a modern, responsive web application designed to streamline the process of booking doctor appointments—powered by voice input for a hands-free, user-friendly experience.
 Whether you're a first-time visitor or a regular patient, Kare‑Sync helps you:
 
 Register quickly
